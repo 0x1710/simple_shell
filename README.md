@@ -66,6 +66,3 @@ exit error:
 	./hsh: 2: exit: Illegal number: hola
 	#cisfun$
 
-## Authors
-- `Gerald Juwah` geraldjuwah@gmail.com
-- `Ahmed A. Olawale` ayobamyahmed@gmail.com
